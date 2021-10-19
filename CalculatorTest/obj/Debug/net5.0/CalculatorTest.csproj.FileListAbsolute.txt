@@ -1,0 +1,15 @@
+C:\HTL-Grieskirchen\5. Jahrgang\SYP\Praxis\CalculatorTest\CalculatorTest\obj\Debug\net5.0\CalculatorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL-Grieskirchen\5. Jahrgang\SYP\Praxis\CalculatorTest\CalculatorTest\obj\Debug\net5.0\CalculatorTest.AssemblyInfoInputs.cache
+C:\HTL-Grieskirchen\5. Jahrgang\SYP\Praxis\CalculatorTest\CalculatorTest\obj\Debug\net5.0\CalculatorTest.AssemblyInfo.cs
+C:\HTL-Grieskirchen\5. Jahrgang\SYP\Praxis\CalculatorTest\CalculatorTest\obj\Debug\net5.0\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\HTL-Grieskirchen\5. Jahrgang\SYP\Praxis\CalculatorTest\CalculatorTest\bin\Debug\net5.0\CalculatorTest.exe
+C:\HTL-Grieskirchen\5. Jahrgang\SYP\Praxis\CalculatorTest\CalculatorTest\bin\Debug\net5.0\CalculatorTest.deps.json
+C:\HTL-Grieskirchen\5. Jahrgang\SYP\Praxis\CalculatorTest\CalculatorTest\bin\Debug\net5.0\CalculatorTest.runtimeconfig.json
+C:\HTL-Grieskirchen\5. Jahrgang\SYP\Praxis\CalculatorTest\CalculatorTest\bin\Debug\net5.0\CalculatorTest.runtimeconfig.dev.json
+C:\HTL-Grieskirchen\5. Jahrgang\SYP\Praxis\CalculatorTest\CalculatorTest\bin\Debug\net5.0\CalculatorTest.dll
+C:\HTL-Grieskirchen\5. Jahrgang\SYP\Praxis\CalculatorTest\CalculatorTest\bin\Debug\net5.0\ref\CalculatorTest.dll
+C:\HTL-Grieskirchen\5. Jahrgang\SYP\Praxis\CalculatorTest\CalculatorTest\bin\Debug\net5.0\CalculatorTest.pdb
+C:\HTL-Grieskirchen\5. Jahrgang\SYP\Praxis\CalculatorTest\CalculatorTest\obj\Debug\net5.0\CalculatorTest.dll
+C:\HTL-Grieskirchen\5. Jahrgang\SYP\Praxis\CalculatorTest\CalculatorTest\obj\Debug\net5.0\ref\CalculatorTest.dll
+C:\HTL-Grieskirchen\5. Jahrgang\SYP\Praxis\CalculatorTest\CalculatorTest\obj\Debug\net5.0\CalculatorTest.pdb
+C:\HTL-Grieskirchen\5. Jahrgang\SYP\Praxis\CalculatorTest\CalculatorTest\obj\Debug\net5.0\CalculatorTest.genruntimeconfig.cache
